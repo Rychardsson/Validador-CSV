@@ -2,7 +2,7 @@
 
 import pytest
 import pandas as pd
-from src.validador import ValidadorClientes
+from validador import ValidadorClientes
 
 @pytest.fixture(scope="module")
 def df_validos() -> pd.DataFrame:

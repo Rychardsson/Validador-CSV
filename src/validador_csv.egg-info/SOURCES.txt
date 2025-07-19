@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/validador_csv.egg-info/PKG-INFO
+src/validador_csv.egg-info/SOURCES.txt
+src/validador_csv.egg-info/dependency_links.txt
+src/validador_csv.egg-info/top_level.txt
+tests/test_validador.py
