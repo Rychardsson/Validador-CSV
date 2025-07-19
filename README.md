@@ -92,6 +92,6 @@ pytest -v
 
 ## 👨‍💻 Autor
 
-Feito por **[Rychardsson]**.
+Feito por **Rychardsson**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rychardssonsouza/)
